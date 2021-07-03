@@ -1,0 +1,3 @@
+class Command():
+
+    number = None

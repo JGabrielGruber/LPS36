@@ -1,0 +1,3 @@
+class Data():
+
+    number = None
